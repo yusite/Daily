@@ -5,9 +5,28 @@
     <atom:link href="http://daily.yuz.me/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://daily.yuz.me</link>
     <description>记录每天的学习进度</description>
-    <pubDate>Wed, 04 Jun 2014 02:00:00 +0200</pubDate>
+    <pubDate>Thu, 05 Jun 2014 02:00:00 +0200</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>五号总结</title>
+      <link>http://daily.yuz.me/articles/2014-06-05/</link>
+      <pubDate>Thu, 05 Jun 2014 02:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://daily.yuz.me/articles/2014-06-05/</guid>
+      <author></author>
+      <description>&lt;h3 id=&quot;-&quot;&gt;正在看的论文&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;题目：Evaluating the impact of R&amp;amp;D tax credits on innovation: A microeconometric study on Canadian firms&lt;/li&gt;
+&lt;li&gt;一看页数：7页&lt;/li&gt;
+&lt;li&gt;剩余页数：5页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;-&quot;&gt;读论文经验教训&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;读正文之前，要先理解每一个小标题的意思，有针对性的去读正文。&lt;/li&gt;
+&lt;li&gt;查询并理解专业词汇的意思，例如：Dummy Variable，不可以直接字面理解，因为这是计量经济学的术语。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     <item>
       <title>注意事项</title>
       <link>http://daily.yuz.me/articles/2014-06-04/</link>
@@ -31,10 +50,10 @@
 &lt;li&gt;看论文效率：论文字数 / 看论文的时间&lt;/li&gt;
 &lt;li&gt;复习占时率：复习考试时间 / 24小时&lt;/li&gt;
 &lt;li&gt;意大利语占时率：专门学习意大利语的时间 / 24小时&lt;/li&gt;
-&lt;li&gt;工作时间占时率：(看论文时间 + 写论文时间 + 复习考试时间 + 专门学习意大利语的时间) / 24小时&lt;/li&gt;
+&lt;li&gt;工作时间占时率：(看论文时间 + 写论文时间 + 复习考试时间 + 专门学习意大利语的时间 + 总结收获) / 24小时&lt;/li&gt;
 &lt;li&gt;其他书占时率：看其他书的时间 / 24小时&lt;/li&gt;
-&lt;li&gt;论文时间占以上时间的比例：(写论文 + 看论文) / (看论文 + 写论文 + 复习考试 + 看其他书 + 专门学习意大利语)&lt;/li&gt;
-&lt;li&gt;复习占时率：(复习考试) / (看论文 + 写论文 + 复习考试 + 看其他书 + 专门学习意大利语)&lt;/li&gt;
+&lt;li&gt;论文时间占以上时间的比例：(写论文 + 看论文) / (看论文 + 写论文 + 复习考试 + 看其他书 + 专门学习意大利语 + 总结收获)&lt;/li&gt;
+&lt;li&gt;复习占以上时间比例：(复习考试) / (看论文 + 写论文 + 复习考试 + 看其他书 + 专门学习意大利语 + 总结收获)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;-&quot;&gt;论文回顾&lt;/h3&gt;
 &lt;ul&gt;
