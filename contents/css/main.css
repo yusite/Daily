@@ -121,7 +121,7 @@ hr {
 
 body.article-detail > header h1 {
   font-size: 2.5em;
-  font-style: italic;
+  /*font-style: italic;*/
   font-weight: 400;
   margin-bottom: -0.2em;
 }
@@ -378,6 +378,20 @@ code.lang-markdown .bullet {
 
 .tomorrow-purple, pre .keyword, pre .javascript .function {
   color: #8959a8;
+}
+
+/* YU ZIJIE add it */
+
+#content .intro .content {
+  font-size: 18px;
+}
+
+#content .intro header h2 {
+  font-size: 1.5em;
+}
+
+ul ul {
+  margin-bottom: 0;
 }
 
 /* media queries */
