@@ -1,4 +1,4 @@
 Daily
 =====
 
-Daily work tracking
+反思一天的工作与生活。

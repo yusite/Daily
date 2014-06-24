@@ -1,9 +1,9 @@
 {
   "locals": {
     "url": "http://daily.yuz.me",
-    "name": "工作记录",
+    "name": "三省",
     "owner": "Zac YU",
-    "description": "记录每天的学习进度"
+    "description": "反思每天的工作与生活"
   },
   "plugins": [
     "./plugins/paginator.coffee"
@@ -21,6 +21,6 @@
     "smartypants": true
   },
   "paginator": {
-    "perPage": 3
+    "perPage": 5
   }
 }

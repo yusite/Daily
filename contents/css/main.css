@@ -4,7 +4,7 @@ h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
 
 body {
   font-family: 'Lora', "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, serif;
-  font-size: 21px;
+  font-size: 20px;
   line-height: 1.52;
   background-color: #f8f8f8;
   text-rendering: optimizeLegibility;
@@ -93,7 +93,7 @@ hr {
 .header h1 {
   font-size: 2.6em;
   text-align: center;
-  font-weight: 700;
+  font-weight: 500;
   margin: 0;
 }
 
